@@ -1,0 +1,7 @@
+D:\Natau\NatauSolution.exe
+D:\Natau\NatauSolution.dll
+D:\Natau\NatauSolution.deps.json
+D:\Natau\NatauSolution.runtimeconfig.json
+D:\Natau\NatauSolution.pdb
+D:\Natau\WinForms.DataVisualization.Utilities.dll
+D:\Natau\WinForms.DataVisualization.dll

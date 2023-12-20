@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n1DshD1weaO1GH0/BBBeYTi7EPtJovSTwf5dneEEvcw7mhOs9NEMKPquqXXV0XdVEQ2bd1UGrlsioc4MY8OVKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ULTIMATE\\source\\repos\\Program1\\NatauSolution\\NatauSolution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ULTIMATE\\.nuget\\packages\\winforms.datavisualization\\1.9.1\\winforms.datavisualization.1.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}
